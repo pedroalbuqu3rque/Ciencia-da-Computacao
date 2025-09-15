@@ -15,7 +15,7 @@ Sistema operacional oculta a complexiade de um sistemas computacional, ou seja, 
           Liberdade de aperfeiçoar e distribuir cópias;
     Software proprietário: Possui um copyright, por meio desse direito autoral, o proprietario pode receber dinheiro; o software não é vendido, apenas licenças;
 
-2. HARDWARE E SOFFTWARE
+2. HARDWARE E SOFTWARE
 
 Hardware: Parte física do computador; placas diversas, processador, memória, cabinete...; existem os dispositivos de entrada, saída, entrada e saída, dispositivos de armazenamento e de processamento;
 Software: Conjunto finito de instruções organizadas de forma lógica; processado pelo hardware; representação de algoritmos; 
